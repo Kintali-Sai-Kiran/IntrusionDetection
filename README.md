@@ -29,12 +29,7 @@ Integrated with Arduino IoT Cloud for real-time monitoring and automated buzzer 
 - Triggers buzzer alerts automatically  
 - Sends intrusion data to Arduino IoT Cloud dashboard  
 - Real-time monitoring from web/mobile  
-
----
-
-## 📸 Images
-![Circuit Diagram](images/circuit.png)   
-
+  
 ---
 
 ## 📊 Results
