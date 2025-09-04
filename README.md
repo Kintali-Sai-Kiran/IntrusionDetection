@@ -6,7 +6,7 @@ Integrated with Arduino IoT Cloud for real-time monitoring and automated buzzer 
 ---
 
 ## 📄 Documentation
-- [Project Report (PDF)](docs/IntrusionDetection.pdf)
+- [Project Report (PDF)](docs/Intrusiondetection.pdf)
 
 ---
 
